@@ -1,9 +1,11 @@
 pyrogram
 tgcrypto
 async-timeout
-aiohttp
 psycopg2-binary
 pillow
 hachoir
 pymongo
 dnspython
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
